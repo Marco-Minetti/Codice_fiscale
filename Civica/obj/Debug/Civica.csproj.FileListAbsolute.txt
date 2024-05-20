@@ -1,0 +1,12 @@
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\bin\Debug\Civica.exe.config
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\bin\Debug\Civica.exe
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\bin\Debug\Civica.pdb
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\obj\Debug\Civica.csprojResolveAssemblyReference.cache
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\obj\Debug\Civica.MainForm.resources
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\obj\Debug\Civica.csproj.GenerateResource.Cache
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\obj\Debug\Civica.exe
+C:\Users\dfj24\OneDrive\Documenti\SharpDevelop Projects\Civica\Civica\obj\Debug\Civica.pdb
+C:\Users\dfj24\OneDrive\Desktop\Scuola\Civica\Civica\obj\Debug\Civica.csproj.AssemblyReference.cache
+C:\Users\dfj24\OneDrive\Desktop\Scuola\Civica\Civica\obj\Debug\Civica.csproj.SuggestedBindingRedirects.cache
+C:\Users\dfj24\OneDrive\Desktop\Scuola\Civica\Civica\obj\Debug\Civica.exe
+C:\Users\dfj24\OneDrive\Desktop\Scuola\Civica\Civica\obj\Debug\Civica.pdb
